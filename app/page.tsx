@@ -59,7 +59,7 @@ export default function Home() {
               正在寻找数据分析实习的数据科学与大数据技术专业学生
             </p>
             <h1 className="text-3xl font-semibold leading-tight md:text-4xl">
-              鲜芳慧
+              Xian FangHui
             </h1>
             <p className="max-w-3xl text-base leading-7 text-slate-600">
               将业务问题转化为可执行的数据分析方案，同时具备前端开发与数据处理能力。
